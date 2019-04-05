@@ -8,3 +8,7 @@ This dataset is a record of every building or building unit (apartment, etc.) so
 
 Content
 This dataset contains the location, address, type, sale price, and sale date of building units sold.
+
+Question 1
+Cost of appartment per sqft
+

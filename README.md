@@ -12,3 +12,5 @@ This dataset contains the location, address, type, sale price, and sale date of 
 Question 1
 Cost of appartment per sqft
 
+Question 2 
+Over the year, which was sold more of, residential vs commercial?

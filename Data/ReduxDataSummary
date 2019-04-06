@@ -1,0 +1,6 @@
+Redux File:  "nyc_sales_redux.csv"
+Original Data: "nyc-rolling-sales.csv"
+
+Explanation:  The redux file is a cleaned version of the original data. Data with null values, zero values, or values less than 400 for both "LAND SQUARE FEET" and "GROSS SQUARE FEET" have been removed from the dataset. Data with null values, zero values, or values less than 1000 for "SALE PRICE" have been removed as well.  All other values are unmodified from the original.
+
+Original data can be found at (https://www.kaggle.com/new-york-city/nyc-property-sales).

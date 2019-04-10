@@ -3,15 +3,21 @@ Dataset: nyc-rolling-sales.csv
 NYC Property Sales
 A year's worth of properties sold on the NYC real estate market
 
-Context
-This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period.
+Data Reduction: nyc_culled_data.csv
+Removed 
 
-Content
-This dataset contains the location, address, type, sale price, and sale date of building units sold.
+We are building: commercial - retail, sqft = 50,000 - 150,000, budget - $1337 per sqft. ($66,850,000 - $200,550,000)
 
-Lisa: I am getYting this
-Question 1
-Cost of appartment per sqft
+Based on our historical data:
 
-Question 2 
-Over the year, which was sold more of, residential vs commercial?
+1.  How many sites match our criteria for area and cost?
+    square foot matches per borough  (bar graph)
+    cost matches per borough  (bar graph)
+    combined matches per borough  (bar graph)
+    
+2.  What is the relationship between sales volume vs sales revenue for each Borough?
+    bar graph
+
+3.  Comparing site matches to sales relationship, on which Borough(s) do we want to focus?
+    graph
+    

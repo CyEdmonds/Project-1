@@ -4,7 +4,10 @@ NYC Property Sales
 A year's worth of properties sold on the NYC real estate market
 
 Data Reduction: nyc_culled_data.csv
-Removed 
+Removed "-" values and "0" values from ['Sales Price']['Land Square Foot']['Gross Square Foot']
+
+Data Reduction: nyc_sales_redux.csv
+Removed null vales from sales price
 
 We are building: commercial - retail, sqft = 50,000 - 150,000, budget - $1337 per sqft. ($66,850,000 - $200,550,000)
 
